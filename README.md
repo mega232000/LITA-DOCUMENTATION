@@ -9,6 +9,8 @@ A project overview is a detailed description of a project's goals and objectives
 A data source may be the initial location where data is born or where physical information is first digitized, however even the most refined data may serve as a source, as long as another process accesses and utilizes it. Concretely, a data source may be a database, a flat file, live measurements from physical devices, scraped web data, or any of the myriad static and streaming data services which abound across the internet.
 
 #### Tools Used 
-- Microsft Excel for Data cleaning 
+- Microsft Excel for Data cleaning [download here](https://www.mocrosoft.com)
 - Analysis and Visualization
-- SQL- Structured Query Language 
+- SQL- Structured Query Language
+- GitHub for Portfolio Buiding 
+ 
