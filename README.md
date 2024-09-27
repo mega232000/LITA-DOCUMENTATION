@@ -1,4 +1,4 @@
-# LITA-DOCUMENTATION
+ # LITA-DOCUMENTATION
 
 Project Title : E commerce Sales Analysis 
 ### Project Overview 
@@ -13,4 +13,10 @@ A data source may be the initial location where data is born or where physical i
 - Analysis and Visualization
 - SQL- Structured Query Language
 - GitHub for Portfolio Buiding 
- 
+###  Data Cleaning and Preparations
+In the initial phase of the data cleaning and preparations we perform  the following action;
+
+1. Data loading and Inspection
+2. handling misssing variables
+3. Data cleaning and formatting
+   
