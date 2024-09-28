@@ -19,4 +19,20 @@ In the initial phase of the data cleaning and preparations we perform  the follo
 1. Data loading and Inspection
 2. handling misssing variables
 3. Data cleaning and formatting
+
+   ### Explorzatory Data Analysis
+   EDA involved the exploring of Data to answer some questions about the Data such as;
+   - What is the overall sales treend
+   - What are bthe products on peak sales
+   - Which products are the product on peak sales?
    
+ ### Data Analysis
+ This is where we conclude some basic lines of codes of  the DAX expression used During your analysis;
+ '''SQL
+ 
+  SELECT * FROM TABLE 1
+  
+ WHERE CONDITION = TRUE
+ '''
+
+ 
