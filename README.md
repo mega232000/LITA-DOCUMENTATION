@@ -1,6 +1,14 @@
  # LITA-DOCUMENTATION
 
 Project Title : E commerce Sales Analysis 
+[Project Overview](#projec_overview) 
+Data Sources
+Tools Used 
+Data Cleaning and Preparations
+Explorzatory Data Analysis
+Data Analysis
+Data Visualization
+
 ### Project Overview 
 A project overview is a detailed description of a project's goals and objectives, the steps to achieve these goals, and the expected outcomes. In addition, a project overview enables you to outline the project schedule, budget, necessary resources, and status.
 
