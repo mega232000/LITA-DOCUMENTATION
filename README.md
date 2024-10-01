@@ -39,3 +39,6 @@ In the initial phase of the data cleaning and preparations we perform  the follo
 ![image](https://github.com/user-attachments/assets/b6671dcf-e848-4c16-8e94-60e2448f0b44)
 😆
 💻
+|Heading 1| Heading 2|Heading 3|
+|---------|----------|---------|
+|Table 1|Table 2| Table 3|
