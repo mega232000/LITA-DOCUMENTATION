@@ -36,4 +36,5 @@ In the initial phase of the data cleaning and preparations we perform  the follo
  '''
 
 ### Data Visualization
+![image](https://github.com/user-attachments/assets/b6671dcf-e848-4c16-8e94-60e2448f0b44)
 
