@@ -35,4 +35,5 @@ In the initial phase of the data cleaning and preparations we perform  the follo
  WHERE CONDITION = TRUE
  '''
 
- 
+### Data Visualization
+
